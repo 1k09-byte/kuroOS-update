@@ -1,5 +1,5 @@
 {
-    "version": "1.2.2.3",
-    "url": "https://github.com/1k09-byte/kuroOS-update/releases/download/v1.2.2.2/kuroOS_Setup.exe",
-    "changelog": "- Completely redesigned progress bar\n- Added fully invisible auto-updating\n- Added automatic changelog notes!"
+    "version": "1.2.2.4",
+    "url": "https://github.com/1k09-byte/kuroOS-updates/releases/download/v1.2.2.4/kuroOS_Setup.exe",
+    "changelog": "- new page, applications to install any listed apps"
 }
