@@ -1,5 +1,5 @@
 {
-    "version": "1.2.2.4",
-    "url": "https://github.com/1k09-byte/kuroOS-updates/releases/download/v1.2.2.4/kuroOS_Setup.exe",
-    "changelog": "- new page, applications to install any listed apps"
+    "version": "1.2.2.5",
+    "url": "https://github.com/1k09-byte/kuroOS-updates/releases/download/v1.2.2.5/kuroOS_Setup.exe",
+    "changelog": "- new page, applications to install any listed apps fix loops"
 }
